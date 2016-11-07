@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BPTNP/CatalogViewController.swift"
+            timestampString = "498165463.089669"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "CatalogViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BPTNP.CatalogViewController.__deallocating_deinit"
+                  moduleName = "BPTNP"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/blumonpay/Documents/IosWorkspace/BPTNP/BPTNP/CatalogViewController.swift"
+                  timestampString = "498165464.502118"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BPTNP.CatalogViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; BPTNP.CatalogViewController"
+                  moduleName = "BPTNP"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/blumonpay/Documents/IosWorkspace/BPTNP/BPTNP/CatalogViewController.swift"
+                  timestampString = "498165464.507294"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "107">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BPTNP.CatalogViewController.__allocating_init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; BPTNP.CatalogViewController"
+                  moduleName = "BPTNP"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/blumonpay/Documents/IosWorkspace/BPTNP/BPTNP/CatalogViewController.swift"
+                  timestampString = "498165464.510138"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BPTNP.CatalogViewController.__allocating_init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;BPTNP.CatalogViewController&gt;"
+                  moduleName = "BPTNP"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/blumonpay/Documents/IosWorkspace/BPTNP/BPTNP/CatalogViewController.swift"
+                  timestampString = "498165464.512099"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BPTNP.CatalogViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;BPTNP.CatalogViewController&gt;"
+                  moduleName = "BPTNP"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/blumonpay/Documents/IosWorkspace/BPTNP/BPTNP/CatalogViewController.swift"
+                  timestampString = "498165464.514863"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "105">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BPTNP/CatalogViewController.swift"
+            timestampString = "498413271.839284"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "CatalogViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BPTNP.CatalogViewController.priceProductDetail.setter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UILabel&gt;"
+                  moduleName = "BPTNP"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/blumonpay/Documents/IosWorkspace/BPTNP/BPTNP/CatalogViewController.swift"
+                  timestampString = "498414223.358608"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "42">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BPTNP.CatalogViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; BPTNP.CatalogViewController"
+                  moduleName = "BPTNP"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/blumonpay/Documents/IosWorkspace/BPTNP/BPTNP/CatalogViewController.swift"
+                  timestampString = "498414223.362042"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "968">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BPTNP.CatalogViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;BPTNP.CatalogViewController&gt;"
+                  moduleName = "BPTNP"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/blumonpay/Documents/IosWorkspace/BPTNP/BPTNP/CatalogViewController.swift"
+                  timestampString = "498414223.365399"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "838">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BPTNP/CatalogViewController.swift"
+            timestampString = "499036235.365787"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BPLIBTNP/RequestPEPE.swift"
+            timestampString = "499185737.763574"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "65"
+            endingLineNumber = "65"
+            landmarkName = "requestLogin(user:password:serial:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BPTNP/PayViewController.swift"
+            timestampString = "499388727.234285"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "183"
+            endingLineNumber = "183"
+            landmarkName = "textFieldShouldReturn(textField:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

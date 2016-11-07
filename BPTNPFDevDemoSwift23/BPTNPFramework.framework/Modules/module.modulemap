@@ -1,0 +1,10 @@
+framework module BPTNPFramework {
+  umbrella header "BPTNPFramework.h"
+
+  export *
+  module * { export * }
+}
+
+module BPTNPFramework.Swift {
+    header "BPTNPFramework-Swift.h"
+}
