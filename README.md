@@ -3,6 +3,13 @@
 SDK para integración de pagos electronicos en su propia aplicacion ios swift 2.3
 Para transaccionar en produccion con Blumon Pay se requiere de solicitar una alta de usuario al correo: helloworld@blumonpay.com
 
+## Archivos del Repositorio
+BPTNPFDevConDemoSwift23 -> Proyecto de ejemplo version en consola para xcode swift 2.3
+BPTNPFDevDemoSwift23 -> Proyecto de ejemplo version grafica para xcode swift 2.3
+swift 2.3 Final Dev BPCore -> Los 2 framework necesarios para transaccionar (BPFramework y CryptoSwift)
+Framework Tarjeta No Presente IOS.docx -> Manual detallado del uso del framework
+
+
 ## Integración utilizando XCODE - Swift 2.3
 
 Para iniciar usted debera seguir los siguientes pasos ( usted podra descargar el manual detallado con graficos incluido en el repositorio )
