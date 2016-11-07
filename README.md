@@ -12,3 +12,27 @@ Para iniciar usted debera seguir los siguientes pasos ( usted podra descargar el
 - Agregar las librerías 
 - Importar el framework dentro de una clase swift
 - Agregar permisos al info.plist ( NSAppTransportSecurity > Allow Arbitrary Loads > yes )
+
+## Clases Principales
+
+La libreria esta dividida en 2 clases principales de las cuales pueden hacer llamada a funciones.
+
+### BPCodes
+
+Contiene la descripcion de los errores que se precenten al realizar los procesos para transaccionar.
+
+#### Uso
+```swift
+import UIKit
+import BPTNPFramework
+
+class ViewController: UIViewController {
+
+    override func viewDidLoad() {
+        super.viewDidLoad()
+
+        print(BPCodes().getCodeDescription(001));
+    }
+
+}
+```
