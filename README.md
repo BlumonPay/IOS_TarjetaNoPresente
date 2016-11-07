@@ -55,7 +55,7 @@ class ViewController: UIViewController {
         // Borrar sesiones en caso de que otro dispositivo use el mismo proceso con el mismo usuario.
         RequestBPC().requestClearSessionLogin();
         
-        let requestLogin = RequestBPC().requestLogin("pruebasIOSTNP", password: "pruebasIOSTNP", serial: "888-888-888");
+        let requestLogin = RequestBPC().requestLogin("pruebasIOSTNP", password: "pruebasIOSTNP", serial: "777-555-333");
         
         if requestLogin == 004 || requestLogin == 007 {
             // Esto indica que el proceso de login fue realizado correctamente.
